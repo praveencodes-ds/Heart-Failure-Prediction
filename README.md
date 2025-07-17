@@ -1,2 +1,2 @@
-# Heart-Failure-Prediction
+# Heart-Disease-Prediction
 Predicting Heart Failure
